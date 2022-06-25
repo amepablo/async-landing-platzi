@@ -1,0 +1,20 @@
+{
+  "name": "async-landing-platzi",
+  "version": "1.0.0",
+  "description": "Landing Page - Curso de asincronismo - Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amepablo/async-landing-platzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amepablo/async-landing-platzi/issues"
+  },
+  "homepage": "https://github.com/amepablo/async-landing-platzi#readme"
+}
